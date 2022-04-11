@@ -1,8 +1,8 @@
 # Ecommerce
 
-install pipenv
+pip install pipenv
 
-install django
+pip install django
 
 install pillow (python -m pip install Pillow)
 
